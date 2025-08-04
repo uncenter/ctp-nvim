@@ -190,7 +190,6 @@ If you want to stay on nvim 0.7, either disable the integration or pin catppucci
 
 		-- Nix
 		["@variable.member.nix"] = { fg = C.blue }, -- For fields.
-		["@lsp.type.property.nix"] = { fg = C.blue }, -- Also for fields, from LSP.
 
 		-- Ruby
 		["@string.special.symbol.ruby"] = { fg = C.flamingo },
